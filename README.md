@@ -1,6 +1,10 @@
 # <a href="[https://www.linkedin.com/in/andrepenny/](https://www.linkedin.com/in/andrepenny/)">Andre Penny</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m a cybersecurity professional focused on governance, risk, and hands-on security operations. Through practical lab environments and real-world simulations, I’ve built experience in vulnerability management, threat detection, and risk-based decision making.
+
+Each project reflects not just technical execution, but an understanding of how security controls impact business risk, compliance, and operational resilience.
+
+Explore my repositories to see how I approach security challenges from both a technical and GRC perspective.
 
 
 ## ⚠️ Vulnerability Management Projects
