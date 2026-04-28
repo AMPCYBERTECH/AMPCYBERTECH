@@ -39,8 +39,11 @@ Understanding of real-world security workflows
 Experience with detection, remediation, and analysis
 Alignment with GRC frameworks and audit expectations
 
-🤝 Connect With Me
 
+## 🤝 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/andrepenny/)
+- 📧 andre.penny@gmail.com
 
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
