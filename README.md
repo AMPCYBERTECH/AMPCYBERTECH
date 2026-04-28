@@ -30,8 +30,8 @@ Reduced manual effort and improved consistency in patching
 🔹 Threat Hunting Scenario: Tor Browser Detection
 Simulated detection of suspicious Tor browser activity
 Investigated logs and identified indicators of compromise
-Documented detection methodology and response approach
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+Documented detection methodology and response approach **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
 
 📊 What These Projects Demonstrate
 Ability to translate technical findings into risk
