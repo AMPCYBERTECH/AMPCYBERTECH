@@ -13,11 +13,13 @@ Risk Analysis & Prioritization
 Security Operations
 
 ⚠️ Vulnerability Management Projects
-🔹 Vulnerability Management Program Implementation
+
+🔹Vulnerability Management Program Implementation
 Designed a structured vulnerability management workflow
 Prioritized findings using risk-based methodology (CVSS + business impact)
 Developed remediation strategy aligned to security best practices
-🔹 Programmatic Vulnerability Remediation
+
+🔹Programmatic Vulnerability Remediation
 Automated remediation using PowerShell, Bash, and shell scripting
 Focused on scalable, repeatable security fixes
 Reduced manual effort and improved consistency in patching
