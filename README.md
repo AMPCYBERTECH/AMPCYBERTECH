@@ -2,7 +2,7 @@
 
 I’m a cybersecurity professional focused on governance, risk, and hands-on security operations. Through practical lab environments and real-world simulations, I’ve developed experience in vulnerability management, threat detection, and risk-based decision making.
 
-My work goes beyond technical execution—each project demonstrates how security findings translate into business risk, compliance impact, and operational resilience.
+My work goes beyond technical execution-each project demonstrates how security findings translate into business risk, compliance impact, and operational resilience.
 Explore my repositories below to see how I approach cybersecurity from both a technical and GRC perspective.
 
 🔐 Core Focus Areas
@@ -17,14 +17,14 @@ Security Operations
 🔹Vulnerability Management Program Implementation
 Designed a structured vulnerability management workflow
 Prioritized findings using risk-based methodology (CVSS + business impact)
-Developed remediation strategy aligned to security best practices
+Developed a remediation strategy aligned to security best practices
  **[Vulnerability Management Program Implementation](https://github.com/AMPCYBERTECH/Vulnerability-Management-Program-/tree/main)**
  
 🔹Programmatic Vulnerability Remediation
 Automated remediation using PowerShell, Bash, and shell scripting
 Focused on scalable, repeatable security fixes
 Reduced manual effort and improved consistency in patching
-**[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)(https://github.com/AMPCYBERTECH/Programmatic-Vulnerability-Remediations)**
+**[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands](https://github.com/AMPCYBERTECH/Programmatic-Vulnerability-Remediations)**
 
 🚨 Threat Hunting & Security Operations
 
