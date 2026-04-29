@@ -18,7 +18,7 @@ Security Operations
 Designed a structured vulnerability management workflow
 Prioritized findings using risk-based methodology (CVSS + business impact)
 Developed remediation strategy aligned to security best practices
- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+ **[Vulnerability Management Program Implementation]https://github.com/AMPCYBERTECH/Vulnerability-Management-Program-/tree/main**
  
 🔹Programmatic Vulnerability Remediation
 Automated remediation using PowerShell, Bash, and shell scripting
