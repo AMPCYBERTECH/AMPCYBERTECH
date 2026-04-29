@@ -24,7 +24,7 @@ Developed remediation strategy aligned to security best practices
 Automated remediation using PowerShell, Bash, and shell scripting
 Focused on scalable, repeatable security fixes
 Reduced manual effort and improved consistency in patching
-**[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)]([https://github.com/joshcybertest/programmatic-vulnerability-remediations](https://github.com/AMPCYBERTECH/Programmatic-Vulnerability-Remediations))**
+**[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations](https://github.com/AMPCYBERTECH/Programmatic-Vulnerability-Remediations)**
 
 🚨 Threat Hunting & Security Operations
 
