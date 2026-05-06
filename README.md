@@ -1,6 +1,6 @@
 # <a href="[https://www.linkedin.com/in/andrepenny/](https://www.linkedin.com/in/andrepenny/)">Andre Penny</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I’m a cybersecurity professional focused on governance, risk, and hands-on security operations. Through practical lab environments and real-world simulations, I’ve developed experience in vulnerability management, threat detection, and risk-based decision making.
+I’m a cybersecurity professional focused on governance, risk management & compliance, and hands-on security operations. Through practical lab environments and real-world simulations, I’ve developed experience in vulnerability management, threat detection, and risk-based decision making.
 
 My work goes beyond technical execution-each project demonstrates how security findings translate into business risk, compliance impact, and operational resilience.
 Explore my repositories below to see how I approach cybersecurity from both a technical and GRC perspective.
