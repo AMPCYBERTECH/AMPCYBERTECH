@@ -26,12 +26,6 @@ Focused on scalable, repeatable security fixes
 Reduced manual effort and improved consistency in patching
 **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands](https://github.com/AMPCYBERTECH/Programmatic-Vulnerability-Remediations)**
 
-🚨 Threat Hunting & Security Operations
-
-🔹 Threat Hunting Scenario: Tor Browser Detection
-Simulated detection of suspicious Tor browser activity
-Investigated logs and identified indicators of compromise
-Documented detection methodology and response approach **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 📊 What These Projects Demonstrate
 Ability to translate technical findings into risk
