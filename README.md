@@ -1,4 +1,5 @@
-Andre Penny — Cybersecurity & GRC Portfolio 🔐
+Andre Penny Cybersecurity & GRC Portfolio 🔐
+
 I'm a cybersecurity professional transitioning into Governance, Risk & Compliance (GRC), with a foundation in federal IT security operations — STIGs, IAM, vulnerability management, and threat detection. I'm currently pursuing the ISC2 CGRC certification and targeting GRC Analyst roles in the federal contracting space.
 My projects bridge the gap between technical security work and risk-based decision making. Each repository demonstrates how security findings translate into business risk, compliance impact, and ATO-ready documentation.
 ---
@@ -24,9 +25,6 @@ Concepts demonstrated: Risk framing, risk assessment, risk response, ATO process
 ---
 🔹 GRC Lab Notes
 Ongoing study notes and lab documentation covering CGRC exam domains, NIST RMF steps, and GRC concepts applied to federal IT environments.
----
-🔹 Cloud Security — RMF on Azure VM
-Applying the NIST Risk Management Framework to a cloud-hosted system in Microsoft Azure. Demonstrates how RMF concepts translate to cloud environments — categorization, control selection, and authorization considerations.
 ---
 ⚠️ Vulnerability Management Projects
 🔹 Vulnerability Management Program Implementation
