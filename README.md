@@ -12,6 +12,22 @@ NIST RMF & Security Controls
 Risk Analysis & Prioritization
 Security Operations
 
+## 🛡️ GRC Projects
+
+### 🔹 [NIST-Aligned Risk Register — Apex Federal Solutions](https://github.com/AMPCYBERTECH/Risk_Register_ApexFederal)
+A Python-generated, SP 800-53–aligned risk register for a fictional GovCon organization 
+operating under FISMA, DFARS 252.204-7012 (CUI), and CMMC Level 2.
+
+- 15 realistic threat scenarios covering the full GovCon threat landscape
+- Risk scoring via Likelihood × Impact matrix aligned to NIST SP 800-30
+- Risk ownership mapped to real roles: ISSO, CISO, IT Manager, FSO, GRC Analyst
+- Risk treatment: Mitigate / Accept / Transfer / Avoid
+- Residual risk columns showing post-treatment state — what the AO actually signs
+- Every risk mapped to its SP 800-53 Rev. 5 control family
+
+**Frameworks:** NIST SP 800-39 · SP 800-37 Rev. 2 · SP 800-53 Rev. 5 · FIPS 199
+
+---
 ⚠️ Vulnerability Management Projects
 
 🔹Vulnerability Management Program Implementation
